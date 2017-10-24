@@ -1,2 +1,3 @@
-# SumtingNyu
-First GitHub Project
+# First GitHub Repository
+
+Have a nice try
